@@ -1,2 +1,1 @@
-# TwitterClone
-Recreating Twitter with Django
+🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧UNDER CONSTRUCTION🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
